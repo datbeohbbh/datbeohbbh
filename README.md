@@ -1,3 +1,4 @@
 # me
 
-![me](https://github-readme-stats.vercel.app/api?username=datbeohbbh)
+![](https://github.com/datbeohbbh/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/datbeohbbh/github-stats/blob/master/generated/languages.svg)
